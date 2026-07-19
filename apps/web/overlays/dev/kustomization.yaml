@@ -1,0 +1,6 @@
+namespace: lab-dev
+resources: [../../base]
+images:
+  - name: web
+    newName: nginx
+    newTag: "1.25"
